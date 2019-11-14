@@ -1,7 +1,7 @@
 rm_template_chassis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
 rm_template_chassis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-rm_template_chassis\croutine.o: D:\Users\MDK\ARM\ARMCC\Bin\..\include\stddef.h
-rm_template_chassis\croutine.o: D:\Users\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+rm_template_chassis\croutine.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+rm_template_chassis\croutine.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 rm_template_chassis\croutine.o: ../Inc/FreeRTOSConfig.h
 rm_template_chassis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 rm_template_chassis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
